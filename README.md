@@ -1,4 +1,4 @@
-# LLama3.3-RAG Application
+# LLama3.3-RAG  Application using SambaNova the Lightning-fast inference engine
 
 A high-performance RAG (Retrieval-Augmented Generation) application for document chat, built with state-of-the-art components.
 
