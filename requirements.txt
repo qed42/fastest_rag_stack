@@ -1,0 +1,7 @@
+streamlit 
+llama-index-vector-stores-qdrant 
+llama-index-llms-sambanovasystems 
+sseclient-py
+openai
+IPython
+llama-index-embeddings-huggingface
